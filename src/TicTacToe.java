@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Tic-Tac-Toe
 class TicTacToe {
     private static final int COMPUTER = 1;
     private static final int HUMAN = 2;
